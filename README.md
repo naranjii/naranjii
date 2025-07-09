@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>~\About</h1>
+  <h1>~/About</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · Fullstack Development @ 🇧🇷 · 🍊<br></p></h3>
   <h5><i>
   ... Busy being a therapist-engineer for systems ...
