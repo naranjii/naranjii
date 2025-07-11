@@ -3,7 +3,7 @@
   <h4><p>🍊 · Matheus Laranjeira · 28 · Fullstack Development @ 🇧🇷 · 🍊<br></p></h3>
   <h5><i>
     ... Mainly interested in automating advertisement & sales operations
-    <br>... Busy being a therapist-engineer for systems
+    <br>... Busy being a therapist for systems
     <br>... Studying & writing mostly ...
   <h6>Know my stack:</i></h6>
   <p><img src="https://skillicons.dev/icons?i=java,ts,python"/>
