@@ -6,28 +6,26 @@
     <br>... Busy being a therapist for systems
     <br>... Studying & writing mostly ...
   <h6>Know my stack:</i></h6>
-  <p><img src="https://skillicons.dev/icons?i=java,ts,python"/>
-  <p><img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,spring"/>
-  <p><img src="https://skillicons.dev/icons?i=mongodb,aws,azure,gcp,docker"/>
-  <p><img src="https://skillicons.dev/icons?i=notion,git,vscode,idea,bash,linux"/>
+  <p><img src="https://skillicons.dev/icons?i=java,ts,python,react,nodejs,spring"/>
+  <p><img src="https://skillicons.dev/icons?i=git,mongodb,docker,aws,azure,gcp"/>
 <h1></h1> 
-<h3>📁 Projects :</h2>
+<h3>~/Projects/Portfolio 📁</h2>
     
 <a href="https://github.com/naranjii/stm-front"><b>✅ Starred Task Manager</b></a><br>
-Fullstack deployed webpage, features<br>AuthContext Login, Tasks CRUD Database,<br>Notifications and Schedule.
-<h6 style="margin-top: 0; margin-bottom: 0;">node, react, typescript, mongoose</h6>
+Deployed Vercel Webpage, Web Task Manager, features backend<br>AuthContext Login, Tasks & Folders CRUD Database, Notifications and Schedule<br>along with a Tailwind responsive frontend.
+<h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 <a href="https://github.com/naranjii/sollax"><b>🤖 Sollax</b></a><br>
-A script to automate tweets without consuming API.<br>Runs a local AI Model for generating text, uses<br>webdriver to enforce a tweet routine<br> in a logged browser profile.
-<h6 style="margin-top: 0; margin-bottom: 0;">python, selenium, ollama</h6>
+A module script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
+<h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama</i></h6>
 
-<a href="https://github.com/naranjii/wppweb-send-message-ai"><b>🤖 Whatsapp Agent</b></a><br>
-Similar to the former script, could be a module,<br>for automating whatsapp messages.<br>Currently sending AI messages but configurable.<br>Uses webdriver to enforce a message routine<br>in a logged browser profile.
-<h6 style="margin-top: 0; margin-bottom: 0;">python, selenium</h6>
+<a href="https://github.com/naranjii/wppweb-send-message-ai"><b>🤖 Whatsapp Agent</b></a><i> (WIP)</i><br>
+Similar to the former script, also designed to be a module. Automates<br>sending whatsapp messages. Currently, sends AI generated messages,<br> but it is configurable. Uses selenium webdriver to enforce a message routine<br>in a logged browser profile.
+<h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium</i></h6>
 
 ---
 
   <br><a><img src="https://github-readme-stats.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="width: 400px; height: auto;"/>
   <h1></h1>
-  <h6>powered by ☕</p></div>
+  <h6>powered by a lot of ☕ 🤗</p></div>
   
