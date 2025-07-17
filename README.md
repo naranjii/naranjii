@@ -12,11 +12,11 @@
 <h3>~/Projects/Portfolio 📁</h2>
     
 <a href="https://github.com/naranjii/stm-front"><b>✅ Starred Task Manager</b></a><br>
-Web based Task Manager deployed in Vercel, features backend<br>AuthContext Login, Tasks & Folders CRUD Database, Notifications and Schedule<br>along with a Tailwind responsive frontend.
+Web based Task Manager deployed in Vercel, features backend<br>AuthContext Login, Tasks and Folders CRUD, Database, Notifications and Scheduling<br>all served in a Tailwind responsive frontend.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 <a href="https://github.com/naranjii/sollax"><b>🤖 Sollax</b></a><br>
-A module script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
+A module script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text content, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama</i></h6>
 
 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>🤖 Whatsapp Agent</b></a><i> (WIP)</i><br>
