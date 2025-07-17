@@ -12,7 +12,7 @@
 <h3>~/Projects/Portfolio 📁</h2>
     
 <a href="https://github.com/naranjii/stm-front"><b>✅ Starred Task Manager</b></a><br>
-Deployed Vercel Webpage, Web Task Manager, features backend<br>AuthContext Login, Tasks & Folders CRUD Database, Notifications and Schedule<br>along with a Tailwind responsive frontend.
+Web based Task Manager deployed in Vercel, features backend<br>AuthContext Login, Tasks & Folders CRUD Database, Notifications and Schedule<br>along with a Tailwind responsive frontend.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 <a href="https://github.com/naranjii/sollax"><b>🤖 Sollax</b></a><br>
