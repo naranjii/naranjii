@@ -8,7 +8,7 @@
     <br>... Yet open to work and collab!
   <h6>Know my stack :</i></h6>
   <p><img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs"/>
-  <p><img src="https://skillicons.dev/icons?i=tailwind,git,mongodb,docker,aws,firebase,gcp"/>
+  <p><img src="https://skillicons.dev/icons?i=tailwind,git,firebase,mongodb,docker,aws,gcp"/>
 <h1></h1> 
 <h3>~/Projects/Portfolio 📁</h3>
     
