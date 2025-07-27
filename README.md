@@ -7,8 +7,8 @@
     <br>... Studying & writing mostly
     <br>... Yet open to work and collab!
   <h6>Know my stack :</i></h6>
-  <p><img src="https://skillicons.dev/icons?i=java,ts,python,react,nodejs"/>
-  <p><img src="https://skillicons.dev/icons?i=git,mongodb,docker,aws,firebase,gcp"/>
+  <p><img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs"/>
+  <p><img src="https://skillicons.dev/icons?i=tailwind,git,mongodb,docker,aws,firebase,gcp"/>
 <h1></h1> 
 <h3>~/Projects/Portfolio 📁</h3>
     
@@ -20,7 +20,7 @@ Web based Task Manager deployed in Vercel, features backend<br>AuthContext Login
 A module script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text content, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama</i></h6>
 
-🤖 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Agent</b></a>[WIP 🚧]<br>
+🤖 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Agent</b></a> [WIP 🚧]<br>
 Similar to the former script, also designed to be a module. Automates<br>sending whatsapp messages. Currently, sends AI generated messages,<br> but it is configurable. Uses selenium webdriver to enforce a message routine<br>in a logged browser profile.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium</i></h6>
 
@@ -33,6 +33,10 @@ Similar to the former script, also designed to be a module. Automates<br>sending
 ---
 
   <br><a><img src="https://github-readme-stats.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="width: 400px; height: auto;"/>
+  > _“Follow your bliss and the universe will open doors where there were only walls.”_  
+> — **Joseph Campbell**
   <h1></h1>
-  <h6>powered by a lot of ☕ 🤗</p></div>
+<h6>powered by a lot of ☕ 🤗</p></div>
+
+
   
