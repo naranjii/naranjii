@@ -2,8 +2,8 @@
   <h1>~/About-me 💭</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · A Fullstack Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
-    ... Passionate about automating workflows, especially in sales and ad ops
-    <br>... Busy being a therapist for systems
+    ... Mainly interested in automating workflows, especially sales and ad ops
+    <br>... Busy being a therapist for machines
     <br>... Studying & writing mostly ...
   <h6>Know my stack:</i></h6>
   <p><img src="https://skillicons.dev/icons?i=java,ts,python,react,nodejs,spring"/>
