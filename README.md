@@ -7,8 +7,9 @@
     <br>... Always learning and trying something new
     <br>... Currently open for collabs and work
   <h6>Know my stack :</i></h6>
-  <p><img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs"/>
-  <p><img src="https://skillicons.dev/icons?i=tailwind,git,firebase,mongodb,docker,aws,gcp"/>
+  <p><img src="https://skillicons.dev/icons?i=java,ts,nodejs,python"/>
+  <p><img src="https://skillicons.dev/icons?i=aws,gcp,css,html,react,tailwind"/>
+  <p><img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux"/>
 <h1></h1> 
 <h3>~/Projects/Portfolio 📁</h3>
 
