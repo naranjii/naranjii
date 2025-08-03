@@ -1,28 +1,32 @@
 <div align="center">
   <h1>~/About-me 💭</h1>
-  <h4><p>🍊 · Matheus Laranjeira · 28 · A Fullstack Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
+  <h4><p>🍊 · Matheus Laranjeira · 28 · A Dedicated Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
-    ... Mainly interested in automating workflows, especially sales and ad ops
-    <br>... Busy being a therapist for machines
-    <br>... Studying & writing mostly
-    <br>... Yet open to work and collab!
+    ... Mainly interested in automating workflows especially Sales and Ad Ops
+    <br>... Probably busy being a machine therapist
+    <br>... Always learning and trying something new
+    <br>... Currently open for collabs and work
   <h6>Know my stack :</i></h6>
   <p><img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs"/>
   <p><img src="https://skillicons.dev/icons?i=tailwind,git,firebase,mongodb,docker,aws,gcp"/>
 <h1></h1> 
 <h3>~/Projects/Portfolio 📁</h3>
-    
-✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
-Web based Task Manager deployed in Vercel, features backend<br>AuthContext Login, Tasks and Folders CRUD, Database, Notifications and Scheduling<br>all served in a Tailwind responsive frontend.
-<h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
-🤖 <a href="https://github.com/naranjii/sollax"><b>Sollax</b></a><br>
-A module script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text content, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
+🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>Tourmaline - AI Assistant</b></a><br>
+Tourmaline is a voice assistant that captures your speech, transcribes it to text,<br>sends the query to an LLM via the OpenRouter API,<br>and speaks the AI's response aloud via TTS,<br>all triggered by a simple hotkey.
+<h6 style="margin-top: 0; margin-bottom:0;"><i>python, pytts, openrouter api</i></h6>
+  
+✖️ <a href="https://github.com/naranjii/sollax"><b>Sollax</b></a><br>
+A modular script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text content, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama</i></h6>
 
-🤖 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Agent</b></a> [WIP 🚧]<br>
-Similar to the former script, also designed to be a module. Automates<br>sending whatsapp messages. Currently, sends AI generated messages,<br> but it is configurable. Uses selenium webdriver to enforce a message routine<br>in a logged browser profile.
+📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Agent</b></a><br>
+Similar to the former script, also designed to be a module, automates sending whatsapp messages.<br> Currently, sends NY Times Newspaper, but it's a single component.<br> Uses selenium webdriver to enforce a message routine<br>in a logged browser profile.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium</i></h6>
+
+✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
+Web based Task Manager deployed in Vercel, features backend AuthContext Login, Tasks and Folders CRUD,<br> Database, Notifications and Scheduling all served in a Tailwind responsive frontend.
+<h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 <h1></h1> 
 <h3>~/Contact-me/links 💬</h3>
