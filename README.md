@@ -2,7 +2,7 @@
   <h1>~/About-me 💭</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · A Dedicated Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
-    ... Mainly interested in automating workflows especially Sales and Ad Ops
+    ... Mainly interested in security & automating workflows, especially Sales and Ad Ops
     <br>... Probably busy being a machine therapist
     <br>... Always learning and trying something new
     <br>... Currently open for collabs and work
