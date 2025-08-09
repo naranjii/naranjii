@@ -1,15 +1,37 @@
 <div align="center">
   <h1>~/about</h1>
-  <h4><p>🍊 · Matheus Laranjeira · 28 · A Dedicated Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
+  <h4><p>🍊 · Matheus Laranjeira · A Dedicated Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
-    ... Mainly interested in security & automating workflows, especially Sales and Ad Ops
-    <br>... Probably busy being a machine therapist
-    <br>... Always learning and trying something new
-    <br>... Currently open for collabs and work
+    ... Mainly interested in systems security, automating tests & workflows ...
+    <br>... Probably busy aiding a machine ...
+    <br>... Learning something new everyday ...
+    <br>... Open for collab and work invitations ...
   <h6>Know my stack :</i></h6>
-  <p><img src="https://skillicons.dev/icons?i=java,ts,nodejs,python"/>
-  <p><img src="https://skillicons.dev/icons?i=aws,gcp,css,html,react,tailwind"/>
-  <p><img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux"/>
+<p>
+  <a href="https://docs.oracle.com/javase/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
+  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+</p>
+<p>
+  <a href="https://aws.amazon.com/documentation/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
+  <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://www.selenium.dev/documentation/"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium"/></a>
+  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></a>
+</p>
+<p>
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+  <a href="https://www.kali.org/docs/"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+</p>
+
 <h1></h1> 
 <h3>~/projects</h3>
 
