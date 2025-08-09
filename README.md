@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>~/About-me 💭</h1>
+  <h1>~/about</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · A Dedicated Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
     ... Mainly interested in security & automating workflows, especially Sales and Ad Ops
@@ -11,7 +11,7 @@
   <p><img src="https://skillicons.dev/icons?i=aws,gcp,css,html,react,tailwind"/>
   <p><img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux"/>
 <h1></h1> 
-<h3>~/Projects/Portfolio 📁</h3>
+<h3>~/projects</h3>
 
 🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>Tourmaline - AI Assistant</b></a><br>
 Tourmaline is a voice assistant that captures your speech, transcribes it to text,<br>sends the query to an LLM via the OpenRouter API,<br>and speaks the AI's response aloud via TTS,<br>all triggered by a simple hotkey.
@@ -30,7 +30,7 @@ Web based Task Manager deployed in Vercel, features backend AuthContext Login, T
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 <h1></h1> 
-<h3>~/Contact-me/links 💬</h3>
+<h3>~/contact</h3>
 ✉️ E-mail @ <a href="mailto:matlaranjeira97@gmail.com">matlaranjeira97@gmail.com</a> ✉️
 <br>📞 <a href="https://wa.me/5513981711417?text=Greetings%20Matheus!">Whatsapp</a> 📞
 <br>📷 <a href="https://www.instagram.com/laranj3ira_">Instagram</a> 📷
