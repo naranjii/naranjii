@@ -35,27 +35,26 @@
 <h1></h1> 
 <h3>~/projects</h3>
 
-🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>Tourmaline - AI Assistant</b></a><br>
-Tourmaline is a voice assistant that captures your speech, transcribes it to text,<br>sends the query to an LLM via the OpenRouter API,<br>and speaks the AI's response aloud via TTS,<br>all triggered by a simple hotkey.
+🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>AI VoiceAssistant</b></a><br>
+<i>Tourmaline</i> listens for a hotkey which captures speech and transcribes to text before<br>querying OpenRouter LLMs API to a TTS read aloud of the AI response.<br>
 <h6 style="margin-top: 0; margin-bottom:0;"><i>python, pytts, openrouter api</i></h6>
   
-✖️ <a href="https://github.com/naranjii/sollax"><b>Sollax</b></a><br>
-A modular script to automate <i>tweets</i> without consuming API.<br>Runs a local AI Model for generating text content, uses<br>webdriver to enforce a tweet routine in<br> a logged browser profile.
+✖️ <a href="https://github.com/naranjii/sollax"><b>AI xBots</b></a><br>
+<a href="https://github.com/naranjii/sollax"><i>SollaX</i></a> and <a href="https://github.com/naranjii/soprax"><i>SopraX</i></a> are repositories for an Ollama and an OpenRouter respectively<br> based <i>tweet/X</i> gen models with its outputs built into a tweet compose routine<br> webdriver, constructed with python selenium.<br>No API Key needed.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama</i></h6>
 
-📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Agent</b></a><br>
-Similar to the former script, also designed to be a module, automates sending whatsapp messages.<br> Currently, sends NY Times Newspaper, but it's a single component.<br> Uses selenium webdriver to enforce a message routine<br>in a logged browser profile.
+📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium Agent</b></a><br>
+Also modular/script designed, automates sending whatsapp web messages.<br> Uses webdriver to enforce a message routine in a logged browser profile.<br> Currently sending NY Times trending News as a single component.<br>
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium</i></h6>
 
 ✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
-Web based Task Manager deployed in Vercel, features backend AuthContext Login, Tasks and Folders CRUD,<br> Database, Notifications and Scheduling all served in a Tailwind responsive frontend.
+Web based fullstack Task Manager deployed in Node + React + Vite @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 <h1></h1> 
 <h3>~/contact</h3>
 ✉️ E-mail @ <a href="mailto:matlaranjeira97@gmail.com">matlaranjeira97@gmail.com</a> ✉️
-<br>📞 <a href="https://wa.me/5513981711417?text=Greetings%20Matheus!">Whatsapp</a> 📞
-<br>📷 <a href="https://www.instagram.com/laranj3ira_">Instagram</a> 📷
+<br>💼 <a href="https://www.linkedin.com/in/matheuslaranjeira/">LinkedIn</a> 💼
 
 ---
 
