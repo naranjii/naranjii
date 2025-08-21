@@ -1,6 +1,6 @@
 <div align="center">
   <h1>~/about</h1>
-  <h4><p>🍊 · Matheus Laranjeira · Affiliate Sales & Software Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
+  <h4><p>🍊 · Matheus Laranjeira · Affiliate Marketer & Software Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
     ... Mainly into automating sales & adOps workflows ...
     <br>... Probably busy as a machine therapist ...
