@@ -1,6 +1,6 @@
 <div align="center">
   <h1>~/about</h1>
-  <h4><p>🍊 · Matheus Laranjeira · A Dedicated Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
+  <h4><p>🍊 · Matheus Laranjeira · Affiliate Sales & Software Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h5><i>
     ... Mainly interested in systems security, automating tests & workflows ...
     <br>... Probably busy being a machine therapist ...
