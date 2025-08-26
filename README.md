@@ -39,13 +39,13 @@
 Web based fullstack Task Manager deployed in Node + React + Vite @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
-🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>AI VoiceAssistant</b></a><br>
-<i>Tourmaline</i> listens for a hotkey which captures speech and transcribes to text before<br>querying OpenRouter LLMs API to a TTS read aloud of the AI response.<br>
-<h6 style="margin-top: 0; margin-bottom:0;"><i>python, pytts, openrouter api</i></h6>
+🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>OpenRouter Voice Query</b></a><br>
+<i>"Tourmaline"</i> is a background Python app that waits for a set hotkey to<br>listen and transcribe speech  to query OpenRouter <br>LLMs API to a TTS read aloud of the AI response.<br>
+<h6 style="margin-top: 0; margin-bottom:0;"><i>python, ffmpeg, openrouter api</i></h6>
   
 ✖️ <b>AI xBots</b><br>
 <a href="https://github.com/naranjii/sollax"><i>SollaX</i></a> and <a href="https://github.com/naranjii/soprax"><i>SopraX</i></a> are repositories for an Ollama and an OpenRouter respectively<br> based <i>tweet/X</i> gen models with its outputs built into a tweet compose routine<br> webdriver, constructed with python selenium.<br>No API Key needed.
-<h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama</i></h6>
+<h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama, openrouter api</i></h6>
 
 📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium Agent</b></a><br>
 Also modular/script designed, automates sending whatsapp web messages.<br> Uses webdriver to enforce a message routine in a logged browser profile.<br> Currently sending NY Times trending News as a single component.<br>
