@@ -36,7 +36,7 @@
 <h3>~/projects/</h3>
 
 ✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
-Web based fullstack Task Manager deployed in Node + React + Vite @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
+Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
 🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>OpenRouter Voice Query</b></a><br>
