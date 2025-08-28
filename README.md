@@ -48,7 +48,7 @@ Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Verce
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium, ollama, openrouter api</i></h6>
 
 📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium Agent</b></a><br>
-Also modular/script designed, automates sending whatsapp web messages.<br> Uses webdriver to enforce a message routine in a logged browser profile.<br> Currently sending NY Times trending News as a single component.<br>
+Also modular/script designed, automates sending whatsapp web messages.<br> Uses webdriver to enforce a message routine in a logged browser profile.<br> Current version sends NY Times trending News.<br>
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>python, selenium</i></h6>
 
 <h1></h1> 
