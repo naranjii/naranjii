@@ -58,7 +58,7 @@ Also modular/script designed, automates sending whatsapp web messages.<br> Uses 
 
 ---
 
-  <br><a><img src="https://github-readme-stats.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="width: 400px; height: auto;"/>
+  <br><a><img src="https://github-readme-stats.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: auto;"/>
   > _“Follow your bliss and the universe will open doors where there were only walls.”_  
 > — **Joseph Campbell**
   <h1></h1>
