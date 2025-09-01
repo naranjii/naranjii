@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>~/about/</h1>
+  <h1>~/about-me/</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · Software Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
-  <h5><i>
+  <h4><i>
     ... Mainly into automating sales & adOps workflows ...
     <br>... Probably busy as a machine therapist ...
     <br>... Learning something new everyday ...
@@ -33,7 +33,7 @@
 </p>
 
 <h1></h1> 
-<h3>~/projects/</h3>
+<h2>~/my-projects/</h2>
 
 ✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
 Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
