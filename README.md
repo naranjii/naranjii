@@ -39,8 +39,8 @@
 Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
 <h6 style="margin-top: 0; margin-bottom: 0;"><i>node, react, typescript, mongoose</i></h6>
 
-🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>OpenRouter Voice Query</b></a><br>
-<i>"Tourmaline"</i> is a background Python app that waits for a set hotkey to<br>listen and transcribe speech  to query OpenRouter <br>LLMs API to a TTS read aloud of the AI response.<br>
+🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>OpenRouter Voice Querying</b></a><br>
+This is a Python background app that listens for a hotkey to<br>record and transcribe speech into an OpenRouter API query,<br>which response's is then turned to speech and read aloud.<br>
 <h6 style="margin-top: 0; margin-bottom:0;"><i>python, ffmpeg, openrouter api</i></h6>
   
 ✖️ <b>AI xBots</b><br>
