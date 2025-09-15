@@ -22,7 +22,6 @@
   <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
   <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
-  <a href="https://www.kali.org/docs/"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
 </p>
 
