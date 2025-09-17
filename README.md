@@ -31,7 +31,7 @@
 ✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
 Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
 
-🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>OpenRouter Voice Querying</b></a><br>
+🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a><br>
 This is a Python background app that listens for a hotkey to<br>record and transcribe speech into an OpenRouter API query,<br>which response's is then turned to speech and read aloud.<br>
   
  <b>AI TweetBot</b><br>
