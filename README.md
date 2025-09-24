@@ -1,12 +1,10 @@
 <div align="center">
   <h1>~/about-me/</h1>
-  <h4><p>🍊 · Matheus Laranjeira · 28 · Software Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
+  <h4><p>🍊 · Matheus Laranjeira · 28 · FS Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h4><i>
-    ... Mainly into automating sales & adOps workflows ...
-    <br>... Probably busy as a machine therapist ...
+    ... Mainly into automating sales & advertisers workflows ...
     <br>... Learning something new everyday ...
-    <br>... Open for collab and work invitations ...
-  <h6>Know my stack :</i></h6>
+  <h6>:. Know my stack :</i></h6>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
   <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
@@ -29,7 +27,7 @@
 <h2>~/my-projects/</h2>
 
 ✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
-Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.
+Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.<br>This project aim to demonstrate a simple stack webapp.<br>
 
 🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a><br>
 This is a Python background app that listens for a hotkey to<br>record and transcribe speech into an OpenRouter API query,<br>which response's is then turned to speech and read aloud.<br>
