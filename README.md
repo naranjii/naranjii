@@ -35,7 +35,7 @@ Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Verce
 🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a><br>
 This is a Python background app that listens for a hotkey to<br>record and transcribe speech into an OpenRouter API query,<br>which response's is then turned to speech and read aloud.<br>
   
- <b>AI TweetBot</b><br>
+❌ <b>AI TweetBot</b><br>
 <a href="https://github.com/naranjii/sollax"><i>SOLLAX</i></a> && <a href="https://github.com/naranjii/soprax"><i>SOPRAX</i></a> are Tweetbots that respectively<br>generates locally (Ollama) && outsource (OpenRouter) AI prompts,<br> then builds it's responses into a Webdriver tweet routine.<br>
 
 📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium</b></a><br>
