@@ -1,14 +1,17 @@
-<div align="center">
-  <h1>~/about-me/</h1>
+<div >
+  <h1 align ="center">~/about-me/</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · FS Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h4><i>
-    ... Mainly into automating sales & advertisers workflows ...
-    <br>... Learning something new everyday ...
+    Automating sales & advertisers workflows ...
+    <br>Solving problems pragmatically ...
+    <br>Learning something new everyday ...
   <h6>:. Know my stack :</i></h6>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
   <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  
 </p>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
@@ -24,7 +27,7 @@
 </p>
 
 <h1></h1> 
-<h2>~/my-projects/</h2>
+<h2 align ="center">~/about-me/demo/</h2>
 
 ✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
 Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.<br>This project aim to demonstrate a simple stack webapp.<br>
@@ -39,17 +42,19 @@ This is a Python background app that listens for a hotkey to<br>record and trans
 This automates sending Whatsapp messages through Whatsapp Web.<br> Uses an webdriver to enforce a message routine to Chrome.<br>Contacts and messages may be customized.<br>
 
 <h1></h1> 
-<h3>~/contact/</h3>
+<h2 align ="center">~/about-me/contact/</h2>
+<div align ="center">
 ✉️ E-mail @ <a href="mailto:matlaranjeira97@gmail.com">matlaranjeira97@gmail.com</a> ✉️
 <br>💼 <a href="https://www.linkedin.com/in/matheuslaranjeira/">LinkedIn</a> 💼
 
 ---
 
   <br><a><img src="https://github-readme-stats.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: auto;"/>
+    
   > _“Follow your bliss and the universe will open doors where there were only walls.”_  
-> — **Joseph Campbell**
+  > — **Joseph Campbell**
   <h1></h1>
 <h6>powered by a lot of ☕ 🤗</p></div>
-
+</div>
 
   
