@@ -36,7 +36,7 @@ Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Verce
 This is a Python background app that listens for a hotkey torecord and transcribe speech into an OpenRouter API query, which response's is then turned to speech and read aloud.<br>
   
 <h4>• ❌ <b>AI TweetBot</b><br></h4>
-<a href="https://github.com/naranjii/sollax"><i>SOLLAX</i></a> && <a href="https://github.com/naranjii/soprax"><i>SOPRAX</i></a> are Tweetbots that respectively generates locally (Ollama) && outsource (OpenRouter) AI prompts, then builds it's responses into a Webdriver tweet routine.<br>
+<a href="https://github.com/naranjii/sollax"><i>SOLLAX</i></a> && <a href="https://github.com/naranjii/soprax"><i>SOPRAX</i></a> are Tweetbots that respectively instantiates locally (Ollama) || outsources (OpenRouter) prompts to AI, then builds it's responses into a Webdriver tweet routine.<br>
 
 <h4>• 📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium</b></a><br></h4>
 This automates sending Whatsapp messages through Whatsapp Web. Uses an webdriver to enforce a message routine to Chrome. Contacts and messages may be customized.<br>
