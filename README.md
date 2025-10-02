@@ -8,7 +8,7 @@
   <h6>:. Know my stack :</i></h6>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
+  <a href="https://cppreference.com"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
   <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
   <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
   
