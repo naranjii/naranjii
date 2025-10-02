@@ -29,17 +29,17 @@
 <h1></h1> 
 <h2 align ="center">~/about-me/demo/</h2>
 
-✅ <a href="https://github.com/naranjii/stm-front"><b>Starred Task Manager</b></a><br>
-Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel,<br>features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo,<br> notifications and scheduling, served in a Tailwind responsive frontend.<br>This project aim to demonstrate a simple stack webapp.<br>
+<h4>• ✅ <a align ="center" href="https://github.com/naranjii/stm-front"><b>Task Manager</b></a><br></h4>
+Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel, features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo, notifications and scheduling, served in a Tailwind responsive frontend. This project aim to demonstrate a simple stack webapp.<br>
 
-🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a><br>
-This is a Python background app that listens for a hotkey to<br>record and transcribe speech into an OpenRouter API query,<br>which response's is then turned to speech and read aloud.<br>
+<h4>• 🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a><br></h4>
+This is a Python background app that listens for a hotkey torecord and transcribe speech into an OpenRouter API query, which response's is then turned to speech and read aloud.<br>
   
-❌ <b>AI TweetBot</b><br>
-<a href="https://github.com/naranjii/sollax"><i>SOLLAX</i></a> && <a href="https://github.com/naranjii/soprax"><i>SOPRAX</i></a> are Tweetbots that respectively<br>generates locally (Ollama) && outsource (OpenRouter) AI prompts,<br> then builds it's responses into a Webdriver tweet routine.<br>
+<h4>• ❌ <b>AI TweetBot</b><br></h4>
+<a href="https://github.com/naranjii/sollax"><i>SOLLAX</i></a> && <a href="https://github.com/naranjii/soprax"><i>SOPRAX</i></a> are Tweetbots that respectively generates locally (Ollama) && outsource (OpenRouter) AI prompts, then builds it's responses into a Webdriver tweet routine.<br>
 
-📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium</b></a><br>
-This automates sending Whatsapp messages through Whatsapp Web.<br> Uses an webdriver to enforce a message routine to Chrome.<br>Contacts and messages may be customized.<br>
+<h4>• 📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium</b></a><br></h4>
+This automates sending Whatsapp messages through Whatsapp Web. Uses an webdriver to enforce a message routine to Chrome. Contacts and messages may be customized.<br>
 
 <h1></h1> 
 <h2 align ="center">~/about-me/contact/</h2>
