@@ -4,7 +4,7 @@
   <h4><i>
     Solving problems pragmatically ...
     <br>Learning something new everyday ...
-  <h6>:. Know my stack :</i></h6>
+  <h6>:. About my stack :</i></h6>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
   <a href="https://cppreference.com"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
