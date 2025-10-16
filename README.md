@@ -1,10 +1,11 @@
-<div >
+<div align ="center" >
   <h1 align ="center">~/about-me/</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · FS Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h4><i>
     Solving problems pragmatically ...
     <br>Learning something new everyday ...
   <h6>:. About my stack :</i></h6>
+  </i></h4>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
   <a href="https://cppreference.com"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
@@ -24,7 +25,7 @@
   <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
 </p>
-
+</div>
 <h1></h1> 
 <h2 align ="center">~/about-me/demo/</h2>
 
