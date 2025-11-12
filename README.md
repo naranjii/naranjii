@@ -16,12 +16,12 @@
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi"/></a>
   <a href="https://reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></a>
 </p>
 <p>
   <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
-  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
 </p>
