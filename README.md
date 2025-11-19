@@ -2,21 +2,20 @@
   <h1 align ="center">~/about-me/</h1>
   <h4><p>🍊 · Matheus Laranjeira · 28 · FS Developer @ Santos/SP [🇧🇷] · 🍊<br></p></h3>
   <h4><i>
-    Solving problems pragmatically ...
-    <br>Learning something new everyday ...
-  <h6>:. About my stack :</i></h6>
+    Solving problems pragmatically
+    <br>Learning something new everyday
+  <h6>:. / stack-docs | click || hover</i></h6>
   </i></h4>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-  <a href="https://cppreference.com"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
-  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
-  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
-  
+  <a href="https://docs.oracle.com/en/java"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>  
 </p>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi"/></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi"/></a>
+  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
   <a href="https://reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></a>
 </p>
@@ -24,6 +23,7 @@
   <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
   <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+  <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/></a>
 </p>
 </div>
 <h1></h1> 
