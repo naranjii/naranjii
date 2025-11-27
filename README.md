@@ -4,7 +4,7 @@
   <h4><i>
     Solving problems pragmatically
     <br>Learning something new everyday
-  <h6>:. / stack-docs | click || hover</i></h6>
+  <h6>:. / know-my-stack</i></h6>
   </i></h4>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
