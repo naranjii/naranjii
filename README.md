@@ -8,6 +8,7 @@
   </i></h4>
 <p>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
+  <a href="https://www.learncpp.com"><img src="https://skillicons.dev/icons?i=cpp" alt="CPP"/></a>
   <a href="https://docs.oracle.com/en/java"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>  
 </p>
@@ -29,17 +30,7 @@
 <h1></h1> 
 <h2 align ="center">~/about-me/demo/</h2>
 
-<h4>• ✅ <a align ="center" href="https://github.com/naranjii/stm-front"><b>Task Manager</b></a><br></h4>
-Web based Task Manager built w/ Node + React + Vite, deployed @ Render and Vercel, features backend AuthContext Login, Preferences, Tasks and Folders CRUDs w/ mongo, notifications and scheduling, served in a Tailwind responsive frontend. This project aim to demonstrate a simple stack webapp.<br>
-
-<h4>• 🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a><br></h4>
-This is a Python background app that listens for a hotkey torecord and transcribe speech into an OpenRouter API query, which response's is then turned to speech and read aloud.<br>
-  
-<h4>• ❌ <b>AI TweetBot</b><br></h4>
-<a href="https://github.com/naranjii/sollax"><i>SOLLAX</i></a> && <a href="https://github.com/naranjii/soprax"><i>SOPRAX</i></a> are Tweetbots that respectively instantiates locally (Ollama) || outsources (OpenRouter) prompts to AI, then builds it's responses into a Webdriver tweet routine.<br>
-
-<h4>• 📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Whatsapp Selenium</b></a><br></h4>
-This automates sending Whatsapp messages through Whatsapp Web. Uses an webdriver to enforce a message routine to Chrome. Contacts and messages may be customized.<br>
+⚠️🚜🧑‍💻☕⚠️ ~ under reform ~ yet to come ~ commentaries
 
 <h1></h1> 
 <h2 align ="center">~/about-me/contact/</h2>
