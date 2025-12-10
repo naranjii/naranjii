@@ -41,7 +41,7 @@
 
   <div style="max-width: 750px; margin: auto; text-align: left;">
 
-  <h3>🌌 <a href="https://orakul-ai.vercel.app"><b>Orakul-AI</b></a></h4>
+  <h3>🌌 <a href="https://orakulia.live"><b>OrakulIA</b></a></h4>
   <p>Solo built NEXT webapp consolidating payments and a credit-token gamified experience<br> for AI-driven entertainment of esoteric niche.</p>
 
   <h3>🏥 <a href="https://plexus-staging-frontend.onrender.com"><b>Clinic ERP</b></a></h4>
