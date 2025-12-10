@@ -51,7 +51,7 @@
   <p>Python background app that records audio on hotkey, transcribes it,<br> queries OpenRouter, and reads the response aloud.</p>
 
   <h3>❌ <a href="https://github.com/naranjii/sollax"><b>Ollama Selenium X</b></a></h4>
-  <p>Python automation using local LLM (Ollama) to bootstrap a Tweet/X composer routine.</p>
+  <p>Python automation using Ollama local LLM to bootstrap a Tweet/X composer routine.</p>
 
   <h3>❌ <a href="https://github.com/naranjii/soprax"><b>OpenRouter Selenium X</b></a></h4>
   <p>Python automation using OpenRouter API LLM for Tweet/X composer routine.</p>
@@ -60,7 +60,7 @@
   <p>Node + React + Vite full-stack Task Manager: AuthContext login, preferences, tasks and folders CRUD (Mongo),<br> notifications, scheduler, Tailwind UI.</p>
 
   <h3>📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Selenium Whatsapp</b></a></h4>
-  <p>Builds web driver routine for composing and sending Whatsapp messages automatically.</p>
+  <p>Web driver routine, Selenium based for composing and sending Whatsapp messages automatically.</p>
 
   </div>
 
