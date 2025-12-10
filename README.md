@@ -47,7 +47,7 @@
   <h3>🏥 <a href="https://plexus-staging-frontend.onrender.com"><b>Clinic ERP</b></a></h4>
   <p>Solo built Node multi-tenant ERP for clinics: schedules, appointments, logbooks,<br> analytics, notifications, and more.</p>
 
-  <h3>🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>API Voice Query</b></a></h4>
+  <h3>🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>Local Speech to AI</b></a></h4>
   <p>Python background app that records audio on hotkey, transcribes it,<br> queries OpenRouter, and reads the response aloud.</p>
 
   <h3>❌ <a href="https://github.com/naranjii/sollax"><b>Ollama Selenium X</b></a></h4>
