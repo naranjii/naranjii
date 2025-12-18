@@ -3,7 +3,7 @@
   <!-- ABOUT -->
   <h1>~/about/</h1>
 
-  <h3>🍊 · Matheus Laranjeira · 28 · FS Developer @ Santos/SP [🇧🇷] · 🍊</h3>
+  <h3>🍊 · Matheus Laranjeira · 28 · FS Developer | Software Engineer @ Santos/SP [🇧🇷] · 🍊</h3>
 
   <p><i>
     Solving problems pragmatically<br>
