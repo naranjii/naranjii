@@ -3,8 +3,8 @@
   <!-- ABOUT -->
   <h1>~/about/</h1>
 
-  <h3>🍊 · Matheus Laranjeira · 28 @ Santos/SP [🇧🇷] · 🍊<br>
-  🍊 · Backend Engineering · 🍊</h3>
+  <h3>🍊 · Matheus Laranjeira · 28 @ Santos/SP [🇧🇷] · 🍊</h3>
+  <h4>· Backend Engineer ·</h4>
 
   <p><i>
     Solving problems pragmatically<br>
