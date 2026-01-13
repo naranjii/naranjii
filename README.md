@@ -17,7 +17,6 @@
   <div style="margin-top: 10px;">
     <p>
       <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts"/></a>
-      <a href="https://www.learncpp.com"><img src="https://skillicons.dev/icons?i=cpp"/></a>
       <a href="https://docs.oracle.com/en/java"><img src="https://skillicons.dev/icons?i=java"/></a>
       <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python"/></a>
     </p>
