@@ -4,7 +4,7 @@
   <h1>~/about/</h1>
 
   <h3>🍊 · Matheus Laranjeira · 28 @ Santos/SP [🇧🇷] · 🍊<br>
-  🍊 · Backend Engineering | DevOps | Gamedev · 🍊</h3>
+  🍊 · Backend Engineering · 🍊</h3>
 
   <p><i>
     Solving problems pragmatically<br>
