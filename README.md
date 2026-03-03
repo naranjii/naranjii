@@ -30,6 +30,7 @@
       <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind"/></a>
     </p>
     <p>
+      <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes"/></a>
       <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker"/></a>
       <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux"/></a>
       <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash"/></a>
