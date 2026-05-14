@@ -11,7 +11,7 @@
     Learning something new everyday
   </i></p>
 
-  <h4>:. / know-my-stack</h4>
+  <h4>:. / home-stack</h4>
 
   <!-- STACK ICONS -->
   <div style="margin-top: 10px;">
