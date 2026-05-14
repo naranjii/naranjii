@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- ABOUT -->
-  <h1>~/about/</h1>
+  <h1>~/about/🍊</h1>
 
-  <h3>🍊 · Matheus Laranjeira · 28 @ Santos/SP [🇧🇷] · 🍊</h3>
-  <h4>·· Software Engineer ··</h4>
+  <h3>· M. Laranjeira · 29 @ SP [🇧🇷] ·</h3>
+  <h4>·· Software Infrastructure Developer ··</h4>
 
   <p><i>
     Solving problems pragmatically<br>
@@ -39,37 +39,39 @@
   </div>
   <!-- ABOUT DEMO -->
   <h2></h2>
-  <h2>~/about/demo/</h2>
+  <h2>~/about/products/</h2>
 
-  <div style="max-width: 750px; margin: auto; text-align: left;">
+  <div align="left" style="max-width: 750px; margin: auto; text-align: left;">
 
   <h3>🌌 <a href="https://orakulia.live"><b>OrakulIA</b></a></h4>
-  <p>Solo built NEXT webapp consolidating payments and a credit-token gamified experience<br> for AI-driven entertainment of esoteric niche.</p>
+  <p><i>Solo built single environment webapp featuring credit-token gamified experience<br> for AI-driven entertainment of esoteric niche.</i></p>
 
   <h3>🏥 <a href="https://plexus-staging-frontend.onrender.com"><b>Clinic ERP</b></a></h4>
-  <p>Solo built Node multi-tenant ERP for clinics: schedules, appointments, logbooks,<br> analytics, notifications, and more.</p>
-
+  <p><i>Solo built full typescript multi-tenant ERP for clinics: newsletter, blogging, schedule, active session, logbooks,<br> analytics, notifications, and much more.</i></p>
+  <h2></h2>
+  <h2 align="center">~/about/demo/</h2>
+  <div align="left">
   <h3>🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>Local Speech to AI</b></a></h4>
-  <p>Python background app that records audio on hotkey, transcribes it,<br> queries OpenRouter, and reads the response aloud.</p>
+  <p><i>Python background app to record audio on hotkey, then transcribe,<br> query OpenRouter, and read the response aloud.</i></p>
 
   <h3>❌ <a href="https://github.com/naranjii/sollax"><b>Ollama Selenium X</b></a></h4>
-  <p>Python automation using Ollama local LLM to bootstrap a Tweet/X composer routine.</p>
+  <p><i>Python application to run local LLM and bootstrap a Tweet/X compose and post routine.</i></p>
 
   <h3>❌ <a href="https://github.com/naranjii/soprax"><b>OpenRouter Selenium X</b></a></h4>
-  <p>Python automation using OpenRouter API LLM for Tweet/X composer routine.</p>
+  <p><i>Python application to run LLM API into a Tweet/X compose and post routine.</i></p>
 
   <h3>✅ <a href="https://github.com/naranjii/stm-front"><b>Auth Group Task Dashboard</b></a></h4>
-  <p>Node + React + Vite full-stack Task Manager: AuthContext login, preferences, tasks and folders CRUD (Mongo),<br> notifications, scheduler, Tailwind UI.</p>
+  <p><i>Mongo minimal dashboard for scheduling tasks, features persistent auth, preferences, folders, task CRUD,<br> notifications, schedule, Tailwind .</i></p>
 
   <h3>📰 <a href="https://github.com/naranjii/wppweb-send-message-ai"><b>Selenium Whatsapp</b></a></h4>
-  <p>Web driver routine, Selenium based for composing and sending Whatsapp messages automatically.</p>
-
+  <p><i>Selenium routine for composing and sending input Whatsapp messages.</i></p>
+  </div>
   </div>
 
   <br><hr><br>
 
   <!-- CONTACT -->
-  <h2>~/about/ctt/</h2>
+  <h2 align="center">~/about/ctt/</h2>
   <p>
     ✉️ E-mail @ <a href="mailto:matlaranjeira97@outlook.com">matlaranjeira97@outlook.com</a><br>
     💼 <a href="https://www.linkedin.com/in/matheuslaranjeira/">LinkedIn</a> 💼
