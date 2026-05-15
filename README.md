@@ -51,8 +51,8 @@
   <h2></h2>
   <h2 align="center">~/about/demo/</h2>
   <div align="left">
-  <h3>🤖 <a href="https://github.com/naranjii/tourmaline-ai-assistant"><b>Local Speech to AI</b></a></h4>
-  <p><i>Python background app to record audio on hotkey, then transcribe,<br> query OpenRouter, and read the response aloud.</i></p>
+  <h3>🤖 <a href="https://github.com/naranjii/tourmaline"><b>Local Speech to AI</b></a></h4>
+  <p><i>Python "native" app that enables local Speech to Text,<br> queries a LLM provider via <code>requests</code>, then Text to Speech the `response` and play reading aloud.</i></p>
 
   <h3>❌ <a href="https://github.com/naranjii/sollax"><b>Ollama Selenium X</b></a></h4>
   <p><i>Python application to run local LLM and bootstrap a Tweet/X compose and post routine.</i></p>
