@@ -22,11 +22,13 @@
       <a href="https://doc.rust-lang.org/stable/"><img src="https://skillicons.dev/icons?i=rust"/></a>
     </p>
     <p>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"/></a>
+      <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=tauri"/></a>
+      <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=spring"/></a>
       <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi"/></a>
+      <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=django"/></a>
       <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
       <a href="https://reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react"/></a>
+      <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs"/></a>
       <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind"/></a>
     </p>
     <p>
@@ -79,8 +81,9 @@
 
   <br>
 
-<br><a><img src="https://github-readme-stats.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: auto;"/>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naranjii&show_icons=true&theme=gruvbox&hide_border=true"/>
+</p>
   <blockquote style="max-width: 500px; margin: 20px auto;">
     <i>“Follow your bliss and the universe will open doors where there were only walls.”</i><br>
     — <b>Joseph Campbell</b>
