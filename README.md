@@ -4,7 +4,7 @@
   <h1>~/about/🍊</h1>
 
   <h3>· M. Laranjeira · 29 @ SP [🇧🇷] ·</h3>
-  <h4>·· Software Infrastructure Developer ··</h4>
+  <h4>·· Software Engineer ··</h4>
 
   <p><i>
     Solving problems pragmatically<br>
