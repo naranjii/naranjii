@@ -3,15 +3,15 @@
   <!-- ABOUT -->
   <h1>~/about/🍊</h1>
 
-  <h3>· M. Laranjeira · 29 @ SP [🇧🇷] ·</h3>
-  <h4>·· Software Engineer ··</h4>
+  <h3>— M. Laranjeira</h3>
+  <h4>·· SysAdmin @ SP [🇧🇷] ··</h4>
 
   <p><i>
     Solving problems pragmatically<br>
     Learning something new everyday
   </i></p>
 
-  <h4>:. / home-stack</h4>
+  <h4>:. / home-lab</h4>
 
   <!-- STACK ICONS -->
   <div style="margin-top: 10px;">
