@@ -48,7 +48,7 @@
   <h3>🌌 <a href="https://orakulia.live"><b>OrakulIA</b></a></h4>
   <p><i>Solo built single environment webapp featuring credit-token gamified experience<br> for AI-driven entertainment of esoteric niche.</i></p>
 
-  <h3>🏥 <a href="https://plexus-staging-frontend.onrender.com"><b>Clinic ERP</b></a></h4>
+  <h3>🐙 <a href="https://okdocto.com"0><b>Okdocto | Clinic ERP</b></a></h4>
   <p><i>Solo built full typescript multi-tenant ERP for clinics: newsletter, blogging, schedule, active session, logbooks,<br> analytics, notifications, and much more.</i></p>
   <h2></h2>
   <h2 align="center">~/about/demo/</h2>
