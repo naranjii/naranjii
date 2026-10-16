@@ -23,7 +23,7 @@
     </p>
     <p>
       <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=tauri"/></a>
-      <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=spring"/></a>
+      <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring"/></a>
       <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi"/></a>
       <a href="https://v2.tauri.app/"><img src="https://skillicons.dev/icons?i=django"/></a>
       <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
